@@ -16,7 +16,7 @@ Rust for complex CLI/TUI and embedded firmware, Bash for light scripts, Lua for 
 
 I use my GitHub account mainly to contribute to GitHub repos.
 
-You may find my own projects on [SourceHut](https://sr.ht/~forkbomb9/) and [GitLab](https://gitlab.com/forkbomb9)
+You may find my own projects on [SourceHut](https://sr.ht/~f9/) and [GitLab](https://gitlab.com/forkbomb9)
 
 My contact info can be found over at my [website](https://forkbomb9.ch)
 
