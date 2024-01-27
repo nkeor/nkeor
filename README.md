@@ -1,3 +1,5 @@
-# Nothing to see here
+# nkeor - nkeor.me
 
-But there is something to see [here ⇢](https://sr.ht/~f9)
+My GitHub profile is used to contribute to GitHub projects, and hosts mirrors of my own projects.
+
+Find them on [SourceHut](https://sr.ht/~nkeor)!
